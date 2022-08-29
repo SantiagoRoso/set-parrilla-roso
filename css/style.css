@@ -4,6 +4,11 @@ body{
     font-family: 'Montserrat', sans-serif;
 }
 
+main{
+    background-image: linear-gradient(to bottom,  #dfdace, #f3f3f3);
+
+}
+
 /*  CSS Menú de navegacion */
 
 #navbarSupportedContent a{
@@ -39,6 +44,12 @@ body{
 #galeria img{
     width: 100%;
     height: 300px;
+    border-radius: 25px;
+}
+
+#galeria img:hover{
+    transform: scale(1.05);
+    transition: 0.3s;
 }
 
 #galeria .col-lg-4{
@@ -54,6 +65,7 @@ body{
     width: 100%;
     height: 500px;
 }
+
 
 #productos p{
     text-align: center;
@@ -97,6 +109,10 @@ footer p{
 #blog img{
     width: 100%;
     height: 300px;
+}
+
+#blog img:hover{
+    border: 5px solid #f7f7f7;
 }
 
 #blog iframe{
