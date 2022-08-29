@@ -91,3 +91,19 @@ footer p{
 #formulario .button{
     border-radius: 15px;
 }
+
+/* PAGINA BLOG */
+
+#blog img{
+    width: 100%;
+    height: 300px;
+}
+
+#blog iframe{
+    width: 100%;
+    height: 300px;
+}
+
+#blog .col-lg-4{
+    padding: 30px;
+}
