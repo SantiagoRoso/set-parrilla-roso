@@ -61,17 +61,17 @@ main{
 }
 
 
-#productos img{
+#destacados img{
     width: 100%;
     height: 500px;
 }
 
 
-#productos p{
+#destacados p{
     text-align: center;
 }
 
-#productos .col-lg-6{
+#destacados .col-lg-6{
     padding: 30px;
 }
 
@@ -128,4 +128,16 @@ footer p{
 
 #FAQ{
     min-height: 75vh;
+}
+
+/* PAGINA PRODUCTOS */
+
+#productos .card:hover{
+    transform: scale(1.05);
+    transition: 0.3s;
+}
+
+/* Tamaño search nav-bar */
+header form input, .boton{
+    height: 30px;
 }
