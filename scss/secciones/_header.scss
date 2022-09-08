@@ -1,0 +1,30 @@
+#navbarSupportedContent {
+    a{
+    font-weight: bold;
+    color: #3f3f3f;
+
+        &:hover{
+        color: orange;
+        }
+    }
+
+    button{
+        border-radius: 15px;
+        font-weight: bold;
+    }
+    
+}
+
+.form-control{
+    font-size: 15px;
+    border-radius: 15px;
+}
+
+
+.carousel-inner img {
+    height: 60vh;
+}
+
+header form input, .boton{
+    height: 30px;
+}

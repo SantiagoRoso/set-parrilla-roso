@@ -1,0 +1,6 @@
+Se colocaron keywords en los 5 HTML
+INDEX: parrilla, fogonero, asado, fuego
+PRODUCTOS: parrilla, fogonero, asado, fuego
+CONTACTO: email, nombre, contacto
+BLOG: parrilla, fogonero, asado, fuego
+FAQ: envios, costo, pais, garantia

@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+body {
+  font-family: 'Montserrat', sans-serif; }
+
+main {
+  background-image: linear-gradient(to bottom, #dfdace, #f3f3f3); }
+
+#destacados p {
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  text-align: center; }
+
+#navbarSupportedContent a {
+  font-weight: bold;
+  color: #3f3f3f; }
+  #navbarSupportedContent a:hover {
+    color: orange; }
+
+#navbarSupportedContent button {
+  border-radius: 15px;
+  font-weight: bold; }
+
+.form-control {
+  font-size: 15px;
+  border-radius: 15px; }
+
+.carousel-inner img {
+  height: 60vh; }
+
+header form input, .boton {
+  height: 30px; }
+
+footer {
+  background-color: #3f3f3f;
+  min-height: 100px; }
+  footer p {
+    color: #f3f3f3;
+    text-align: center; }
+
+.iconos i {
+  font-size: 30px;
+  padding: 0 10px;
+  color: #f3f3f3; }
+
+.titulo {
+  font-weight: bold;
+  color: orange; }
+
+#galeria img {
+  width: 100%;
+  height: 300px;
+  border-radius: 25px; }
+  #galeria img:hover {
+    transform: scale(1.05);
+    transition: 0.3s; }
+
+#galeria .col-lg-4 {
+  padding: 25px; }
+
+#galeria p {
+  text-align: center; }
+
+#destacados img {
+  width: 100%;
+  height: 500px; }
+
+#destacados h3 {
+  background-color: #ffa00f;
+  color: white;
+  font-family: sans-serif; }
+
+#destacados .col-lg-6 {
+  padding: 30px; }
+
+#productos .card:hover {
+  transform: scale(1.05);
+  transition: 0.3s; }
+
+#formulario {
+  min-height: 75vh; }
+  #formulario .button {
+    border-radius: 15px; }
+
+#blog img {
+  width: 100%;
+  height: 300px; }
+  #blog img:hover {
+    border: 5px solid #f7f7f7; }
+
+#blog iframe {
+  width: 100%;
+  height: 300px; }
+
+#blog .col-lg-4 {
+  padding: 30px; }
+
+#FAQ {
+  min-height: 75vh; }
